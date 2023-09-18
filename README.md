@@ -1,4 +1,3 @@
-# Projects
 # Optimization of a thin film perovskite solar cell using RL techniques
 
 Welcome to the "Optimization of a thin film perovskite solar cell using RL techniques" project, a groundbreaking initiative dedicated to the advancement and optimization of perovskite-based solar cells. Our primary mission is to significantly enhance energy conversion efficiency through the integration of cutting-edge photonic structures and the intelligent fine-tuning of design parameters using Reinforcement Learning (RL) techniques.
