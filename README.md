@@ -1,7 +1,7 @@
 # Projects
-# Revolutionizing Perovskite-Based Solar Cell Efficiency via Reinforcement Learning (RL)
+# Optimization of a thin film perovskite solar cell using RL techniques
 
-Welcome to the "Revolutionizing Perovskite-Based Solar Cell Efficiency via Reinforcement Learning (RL)" project, a groundbreaking initiative dedicated to the advancement and optimization of perovskite-based solar cells. Our primary mission is to significantly enhance energy conversion efficiency through the integration of cutting-edge photonic structures and the intelligent fine-tuning of design parameters using Reinforcement Learning (RL) techniques.
+Welcome to the "Optimization of a thin film perovskite solar cell using RL techniques" project, a groundbreaking initiative dedicated to the advancement and optimization of perovskite-based solar cells. Our primary mission is to significantly enhance energy conversion efficiency through the integration of cutting-edge photonic structures and the intelligent fine-tuning of design parameters using Reinforcement Learning (RL) techniques.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Welcome to the "Revolutionizing Perovskite-Based Solar Cell Efficiency via Reinf
 
 ## Project Overview
 
-"Revolutionizing Perovskite-Based Solar Cell Efficiency via Reinforcement Learning (RL)" is at the forefront of elevating the performance of perovskite-based solar cells. Our project takes advantage of advanced photonic structures and harnesses the power of Reinforcement Learning (RL) methodologies to improve light-trapping mechanisms, ultimately leading to superior energy conversion.
+"Optimization of a thin film perovskite solar cell using RL techniques" is at the forefront of elevating the performance of perovskite-based solar cells. Our project takes advantage of advanced photonic structures and harnesses the power of Reinforcement Learning (RL) methodologies to improve light-trapping mechanisms, ultimately leading to superior energy conversion.
 
 ## Optimization Strategy
 
