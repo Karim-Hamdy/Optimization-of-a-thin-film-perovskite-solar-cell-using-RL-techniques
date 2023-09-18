@@ -12,7 +12,7 @@ Welcome to the "Optimization of a thin film perovskite solar cell using RL techn
 
 ## Project Overview
 
-"Optimization of a thin film perovskite solar cell using RL techniques" is at the forefront of elevating the performance of perovskite-based solar cells. Our project takes advantage of advanced photonic structures and harnesses the power of Reinforcement Learning (RL) methodologies to improve light-trapping mechanisms, ultimately leading to superior energy conversion.
+Optimization of a thin film perovskite solar cell using RL techniques is at the forefront of elevating the performance of perovskite-based solar cells. Our project takes advantage of advanced photonic structures and harnesses the power of Reinforcement Learning (RL) methodologies to improve light-trapping mechanisms, ultimately leading to superior energy conversion.
 
 ## Optimization Strategy
 
